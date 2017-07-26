@@ -1,6 +1,6 @@
 #!groovy
   
-def project = 'chris_ricci'
+def project = 'sir_rob'
 def appName = 'hello-world-instrumented'
 def feSvcName = "${appName}"
 def namespace = 'monitoring-demo'
